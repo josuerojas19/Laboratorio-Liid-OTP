@@ -1,55 +1,17 @@
 fileFormatVersion: 2
-guid: 76a791c0f5af73e4485c14dfe0f8e19d
+guid: e89c5b84e81417249890d2d978b44391
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Base
-    100002: Base1
-    100004: BaseBorrador
-    100006: Board
-    100008: Borrador
-    100010: Marco1
-    100012: Marco2
-    100014: Marco3
-    100016: //RootNode
-    400000: Base
-    400002: Base1
-    400004: BaseBorrador
-    400006: Board
-    400008: Borrador
-    400010: Marco1
-    400012: Marco2
-    400014: Marco3
-    400016: //RootNode
-    2100000: Board_Mat
-    2100002: EraserUp
-    2100004: BlackBoardBase
-    2100006: Board_Wood_Mat
-    2100008: Material.001
-    2300000: Base
-    2300002: Base1
-    2300004: BaseBorrador
-    2300006: Board
-    2300008: Borrador
-    2300010: Marco1
-    2300012: Marco2
-    2300014: Marco3
-    3300000: Base
-    3300002: Base1
-    3300004: BaseBorrador
-    3300006: Board
-    3300008: Borrador
-    3300010: Marco1
-    3300012: Marco2
-    3300014: Marco3
-    4300000: Board
-    4300002: Borrador
-    4300004: BaseBorrador
-    4300006: Marco1
-    4300008: Marco3
-    4300010: Marco2
-    4300012: Base1
-    4300014: Base
+    100000: //RootNode
+    400000: //RootNode
+    2100000: Material.003
+    2100002: Material.001
+    2100004: Material.002
+    2100006: Material.004
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Cube.002
   externalObjects: {}
   materials:
     importMaterials: 1
